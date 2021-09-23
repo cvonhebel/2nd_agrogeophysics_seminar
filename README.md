@@ -7,6 +7,7 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 ## Pending questions 
 
 - location: online? in-presence
+- funding?
 - possible date: Janvier/February 2022
 
 ## Roadmap 
