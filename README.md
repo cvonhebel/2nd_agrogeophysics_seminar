@@ -6,20 +6,22 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 
 ## Pending questions 
 
-- location: online? in-presence
-- funding?
-- possible date: Janvier/February 2022
+- location: in-presence Brussels (or other volunteers? ;-) ) / live streaming of presentations
+- funding? none at the moment => do it as an SSSB seminar if in Brussels?
+- possible date: February-March 2022
 
 ## Roadmap 
 
-- board invitation
-- drafting the seminar outline/objectives
-- advertisement
+- board invitation - by mid October
+- drafting the seminar outline/objectives - by mid October
+- advertisement - by November
 
 
 
 ## Ideas 
 
+- overview of current ongoing research projects (organize afterwards in subthemes depending on submissions?)
+- pedophysics?
 - reflexion about data-reuse
 - dataset/code benchmarking
   - ex: inversion of a synthetic dataset simulating RWU, combining different data sources, ...
