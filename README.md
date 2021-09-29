@@ -13,6 +13,9 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 ## Roadmap 
 
 - board invitation - by mid October
+A. Romero-Ruiz? (Rothamsted)
+C. Von Hebel? (Xarvio)
+??
 - drafting the seminar outline/objectives - by mid October
 - advertisement - by November
 
